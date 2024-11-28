@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"go-test-api/db"
-	"go-test-api/model"
+	"go-rest-api/db"
+	"go-rest-api/model"
 )
 
 func main() {
